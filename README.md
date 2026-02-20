@@ -11,8 +11,6 @@
 
 <div align='center'>
 
-<img src="https://tech-orbit.wontory.dev/api?title=InSange&tech=nreal%20Engine,C,Unity&size=500&duration=20" style="max-width: 700px; background-color: #0000;" />
-
 <br/><br/>
 
 ### 🛠️ Tech Stack
@@ -35,8 +33,13 @@
 
 ### 📈 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=InSange&show_icons=true&theme=radical)](https://github.com/InSange)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InSange&layout=compact&theme=radical)](https://github.com/InSange)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=InSange&show_icons=true&theme=radical&v=1)](https://github.com/InSange)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InSange&layout=compact&theme=radical&v=1)](https://github.com/InSange)
+
+<br/>
+
+[![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InSange&theme=radical)](https://github.com/InSange)
+[![GitHub Streak](https://streak-stats.demolab.com?user=InSange&theme=radical)](https://github.com/InSange)
 
 <br/>
 
