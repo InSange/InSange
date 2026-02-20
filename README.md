@@ -11,7 +11,7 @@
 
 <div align='center'>
 
-<img src="https://tech-orbit.wontory.dev/api?title=InSange&tech=Unreal%20Engine,C%2B%2B,Unity,C%23&size=500&duration=20" style="max-width: 700px; background-color: #0000;" />
+<img src="https://tech-orbit.wontory.dev/api?title=InSange&tech=nreal%20Engine,C,Unity&size=500&duration=20" style="max-width: 700px; background-color: #0000;" />
 
 <br/><br/>
 
@@ -26,21 +26,17 @@
 <br/>
 
 ### 📊 Algorithm & Coding Challenges
-<a href="https://solved.ac/sunwo777">
-  <img src="http://mazassumnida.wtf/api/v1/generate_badge?boj=sunwo777" alt="Solved.ac Badge" />
-</a>
+
+[![Solved.ac Badge](https://mazassumnida.wtf/api/v2/generate_badge?boj=sunwo777)](https://solved.ac/sunwo777)
 <br/>
-<a href="https://leetcode.com/ehfrur88830">
-  <img src="https://leetcard.jacoblin.cool/ehfrur88830?theme=dark&font=Baloo%202&ext=activity" alt="LeetCode Stats" />
-</a>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/ehfrur88830?theme=dark&font=Baloo%202&ext=activity)](https://leetcode.com/ehfrur88830)
 
 <br/><br/>
 
 ### 📈 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=InSange&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InSange&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=InSange&show_icons=true&theme=radical)](https://github.com/InSange)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InSange&layout=compact&theme=radical)](https://github.com/InSange)
 
 <br/>
 
